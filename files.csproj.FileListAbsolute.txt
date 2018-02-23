@@ -1,0 +1,10 @@
+C:\Users\sanjay.kumar\source\repos\files\files\bin\Debug\files.exe.config
+C:\Users\sanjay.kumar\source\repos\files\files\bin\Debug\files.exe
+C:\Users\sanjay.kumar\source\repos\files\files\bin\Debug\files.pdb
+C:\Users\sanjay.kumar\source\repos\files\files\obj\Debug\files.csprojResolveAssemblyReference.cache
+C:\Users\sanjay.kumar\source\repos\files\files\obj\Debug\files.Form1.resources
+C:\Users\sanjay.kumar\source\repos\files\files\obj\Debug\files.Properties.Resources.resources
+C:\Users\sanjay.kumar\source\repos\files\files\obj\Debug\files.csproj.GenerateResource.Cache
+C:\Users\sanjay.kumar\source\repos\files\files\obj\Debug\files.csproj.CoreCompileInputs.cache
+C:\Users\sanjay.kumar\source\repos\files\files\obj\Debug\files.exe
+C:\Users\sanjay.kumar\source\repos\files\files\obj\Debug\files.pdb
